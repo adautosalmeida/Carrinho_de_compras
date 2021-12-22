@@ -1,5 +1,4 @@
 # Carrinho_de_compras
-Carrinho de Compras Simplificado
 Sistema que simula um carrinho que de compras simplificado que permite ao usuário adicionar e retirar produtos bem como checar
 os produtos que ele já adicinou.
 
